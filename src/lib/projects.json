@@ -1,0 +1,17 @@
+[
+  { 
+    "name": "mrfetch", 
+    "description": "A fast, light, minimal-dependency fetch written in Rust.", 
+    "url": "https://git.xorycode.dev/xory/mrfetch"
+  },
+  {
+    "name": "pasternak",
+    "description": "A light killswitch server & trigger intended to delete entire networks of LUKS computers in seconds.",
+    "url": "https://git.xorycode.dev/xory/pasternakd"
+  },
+  {
+    "name": "quickill",
+    "description": "A digital 'nuclear warhead' that completely scraps a Linux installation.",
+    "url": "https://git.xorycode.dev/xory/quickill"
+  }
+]
