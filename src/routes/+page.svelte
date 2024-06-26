@@ -25,12 +25,12 @@
   <div class="mr-5">
     <p class="text-md text-[#a6e3a1]">equipment</p>
     <ul>
-      <li>- modified prebuilt pc (i5-7400 & rtx 3060, 24gb ddr4)</li>
+      <li>- custom pc (ryzen 7 5700x & rtx 3060, 32gb 3600mhz ddr4)</li>
       <li>- thinkpad t450<li>
       <li>- hp compaq dc7900</li>
       <li>- google pixel 7a (lynx)</li>
       <li>- arduino uno r4 wifi</li>
-      <li>- rpi pico w</li>
+      <li>- esp32 devkit</li>
     </ul>
   </div>
 </div>

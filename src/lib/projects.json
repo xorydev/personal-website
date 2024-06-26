@@ -12,6 +12,16 @@
   {
     "name": "quickill",
     "description": "A digital 'nuclear warhead' that completely scraps a Linux installation.",
-    "url": "https://git.xorycode.dev/xory/quickill"
+    "url": "https://github.com/xorydev/quickill"
+  },
+  {
+    "name": "dethread-api.rs",
+    "description": "An API Server for a twitter-like social media platform named DeThread",
+    "url": "https://git.xorycode.dev/xory/dethread-api.rs"
+  },
+  {
+    "name": "solcrypt",
+    "description": "A FOSS Rust 'ransomware' made for learning/hobby purposes",
+    "url": "https://git.xorycode.dev/xory/solcrypt"
   }
 ]
